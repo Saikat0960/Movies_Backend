@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeltaX", "DeltaX\DeltaX.csproj", "{66038012-6FC6-4414-B123-96E9B5D0EDA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66038012-6FC6-4414-B123-96E9B5D0EDA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66038012-6FC6-4414-B123-96E9B5D0EDA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66038012-6FC6-4414-B123-96E9B5D0EDA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66038012-6FC6-4414-B123-96E9B5D0EDA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37D106D7-B0CD-4D09-BC61-BD84DF2DF7ED}
+	EndGlobalSection
+EndGlobal
